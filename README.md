@@ -1,6 +1,7 @@
 # Stock-Prediction-App
 A Stock Prediction app using a Machine Leraning Model
-#📌 Project Title:
+
+#📌** Project Title:**
 Stock Price Prediction 
 
 #📝 Project Description:
