@@ -1,10 +1,10 @@
 # Stock-Prediction-App
 A Stock Prediction app using a Machine Leraning Model
 
-#📌** Project Title:**
+#📌Project Title:
 Stock Price Prediction 
 
-#📝 Project Description:
+#📝Project Description:
 
 This project predicts and visualizes stock price trends using machine learning and deep learning techniques. Users can explore real-time stock data, analyze historical trends, and forecast prices for the next 7 days through an interactive dashboard.
 
