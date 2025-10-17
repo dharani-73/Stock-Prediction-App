@@ -4,7 +4,7 @@
   </marquee>
 </h1>
 
-![Header Image](https://your-image-link-here.com/header.png)
+![Header Image](https://github.com/dharani-73/stock-prediction-app/blob/dbf93759bf5bdeb66bcab3c96e9764fdc679f473/Screenshot%202025-10-17%20232419.png)
 
 Predict the future stock prices for **any company or cryptocurrency** with **Machine Learning (LSTM)** in an interactive web app!
 
