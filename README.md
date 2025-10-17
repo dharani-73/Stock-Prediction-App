@@ -44,7 +44,7 @@ Try the live app here:
 ![Input Screenshot](https://github.com/dharani-73/stock-prediction-app/blob/dbf93759bf5bdeb66bcab3c96e9764fdc679f473/Screenshot%202025-10-17%20232419.png)
 
 ### 2. Historical Price Chart
-![Historical Chart]()
+![Historical Chart](https://github.com/dharani-73/stock-prediction-app/blob/b3c26fc596fd3b28d85177d6dc048ab9b9a463ce/Screenshot%202025-10-17%20232438.png)
 
 ### 3. LSTM Training Status
 ![Training Screenshot](https://your-image-link-here.com/training.png)
