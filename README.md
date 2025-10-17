@@ -1,10 +1,12 @@
 <h1>
-  <marquee behavior="alternate" scrollamount="10" style="color:orange;">
-    🚀📈 Stock Prediction App 📊💻
-  </marquee>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning;Deep+Learning" alt="Typing SVG" />
+    <br>
+  <center>🚀📈 Stock Prediction App 📊💻</center>
+  </br>
+  
 </h1>
 
-![Header Image]()
+![Header Image](https://github.com/dharani-73/stock-prediction-app/blob/0e01d4e826c86a5b6ddf922192c809f667755f87/Screenshot%202025-10-17%20232553.png)
 
 Predict the future stock prices for **any company or cryptocurrency** with **Machine Learning (LSTM)** in an interactive web app!
 
