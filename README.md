@@ -41,10 +41,10 @@ Try the live app here:
 ## 📷 Screenshots
 
 ### 1. Enter Stock Ticker
-![Input Screenshot]()
+![Input Screenshot](https://github.com/dharani-73/stock-prediction-app/blob/dbf93759bf5bdeb66bcab3c96e9764fdc679f473/Screenshot%202025-10-17%20232419.png)
 
 ### 2. Historical Price Chart
-![Historical Chart](https://github.com/dharani-73/stock-prediction-app/blob/dbf93759bf5bdeb66bcab3c96e9764fdc679f473/Screenshot%202025-10-17%20232419.png)
+![Historical Chart]()
 
 ### 3. LSTM Training Status
 ![Training Screenshot](https://your-image-link-here.com/training.png)
