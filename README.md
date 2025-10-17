@@ -13,7 +13,7 @@ Predict the future stock prices for **any company or cryptocurrency** with **Mac
 ## 🚀 Live Demo
 
 Try the live app here:  
-[🌐 Open in Streamlit](https://share.streamlit.io/dharani-73/stock-prediction-app/main/app.py)
+[🌐 Open in Streamlit](https://stock-prediction-app-rbcetkc59b2oy7quz8w64p.streamlit.app/)
 
 ---
 
@@ -41,7 +41,7 @@ Try the live app here:
 ## 📷 Screenshots
 
 ### 1. Enter Stock Ticker
-![Input Screenshot](https://your-image-link-here.com/input.png)
+![Input Screenshot]()
 
 ### 2. Historical Price Chart
 ![Historical Chart](https://your-image-link-here.com/historical.png)
