@@ -4,7 +4,7 @@
   </marquee>
 </h1>
 
-![Header Image](https://github.com/dharani-73/stock-prediction-app/blob/dbf93759bf5bdeb66bcab3c96e9764fdc679f473/Screenshot%202025-10-17%20232419.png)
+![Header Image]()
 
 Predict the future stock prices for **any company or cryptocurrency** with **Machine Learning (LSTM)** in an interactive web app!
 
@@ -51,7 +51,7 @@ Try the live app here:
 
 ### 4. Predicted Prices
 ![Prediction Screenshot](https://github.com/dharani-73/stock-prediction-app/blob/6c8363bd57ecf6b832a4326b28ee53f7e6d7ad87/Screenshot%202025-10-17%20232538.png)
-![Prediction Screenshot]()
+![Prediction Screenshot](https://github.com/dharani-73/stock-prediction-app/blob/0e01d4e826c86a5b6ddf922192c809f667755f87/Screenshot%202025-10-17%20232553.png)
 
 ---
 
